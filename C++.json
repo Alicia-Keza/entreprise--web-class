@@ -1,0 +1,10 @@
+{
+    "id": "2f31bf07-dce9-4e44-a127-226075f3fa0c",
+    "created_at": "2026-05-13T13:28:55.155231",
+    "updated_at": "2026-05-13T13:28:55.160873",
+    "name": "C++",
+    "author": "Robert",
+    "year": 2008,
+    "genre": "Programming",
+    "is_borrowed": true
+}

@@ -1,0 +1,10 @@
+{
+    "id": "62ccc084-7ef6-4b72-86c1-54b9aed58d5c",
+    "created_at": "2026-05-13T13:28:55.155180",
+    "updated_at": "2026-05-13T13:28:55.158532",
+    "name": "Python",
+    "author": "Ali",
+    "year": 2020,
+    "genre": "Programming",
+    "is_borrowed": true
+}
